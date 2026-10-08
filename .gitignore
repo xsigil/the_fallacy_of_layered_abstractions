@@ -4,3 +4,5 @@ tags
 !src/images/*.pdf
 db/seed/
 .DS_Store
+*.log
+build/
